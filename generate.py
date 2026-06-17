@@ -16,7 +16,7 @@ BLOCKLISTS = [
 ]
 
 CUSTOM_BLOCKED = [
-    "https://kinogo.online/serialy/105694-den-shakala.html",
+    
     
 ]
 
