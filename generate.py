@@ -16,9 +16,8 @@ BLOCKLISTS = [
 ]
 
 CUSTOM_BLOCKED = [
-    # Сюда можно добавлять свои домены вручную
-    # "tiktok.com",
-    # "facebook.com",
+    "https://kinogo.online/serialy/105694-den-shakala.html",
+    
 ]
 
 def download_hosts(url):
